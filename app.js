@@ -237,8 +237,8 @@ const PACKAGES = [
     features: [
       { icon: "1x", title: "Kematian Biasa", subtitle: "Pampasan penuh" },
       { icon: "2x", title: "Kematian Kemalangan", subtitle: "Gandaan 2x" },
-      { icon: "3x", title: "Kemalangan Tempat Awam", subtitle: "Gandaan 3x" },
-      { icon: "4x", title: "Kemalangan Luar Negara", subtitle: "Gandaan 4x" },
+      { icon: "3x", title: "Kemalangan Tempat Awam", subtitle: "Gandaan 2x" },
+      { icon: "4x", title: "Kemalangan Luar Negara", subtitle: "Gandaan 2x" },
       { icon: "✓", title: "Pampasan Hilang Upaya", subtitle: "Termasuk" },
       { icon: "✓", title: "Khairat Kematian", subtitle: "Dapat dalam 48 jam" },
       { icon: "✓", title: "Badal Haji", subtitle: "(bagi muslim)" }
