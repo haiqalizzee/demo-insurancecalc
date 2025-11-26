@@ -212,7 +212,7 @@ const PACKAGES = [
     highlights: [
       { icon: "💰", label: "Perlindungan Minimum", value: "RM200,000" },
       { icon: "⚡", label: "Pelepasan Cukai", value: "Sehingga RM3,000" },
-      { icon: "🏥", label: "Badal Haji", value: "Optional" },
+      { icon: "🕋", label: "Badal Haji" },
       { icon: "⏱️", label: "Pampasan", value: "Semua Sebab" }
     ],
     features: [
@@ -230,7 +230,7 @@ const PACKAGES = [
     tagline: "Pakej ini menawarkan perlindungan asas dengan gandaan pampasan kematian mengikut situasi.",
     highlights: [
       { icon: "🚀", label: "Pampasan Kematian", value: "Sehingga RM250,000" },
-      { icon: "4️⃣", label: "Khairat Kematian", value: "10% dari Hibah" },
+      { icon: "🎁", label: "Khairat Kematian", value: "10% dari Hibah" },
       { icon: "🔒", label: "Harga Tetap", value: "Tiada Kenaikan" },
       { icon: "🌍", label: "Perlindungan", value: "Sehingga Umur 80" }
     ],
@@ -251,7 +251,7 @@ const PACKAGES = [
     type: "coverage",
     tagline: "Pakej ini menawarkan pampasan kematian berganda mengikut situasi serta manfaat tunai mengikut fasa kehidupan.",
     highlights: [
-      { icon: "💎", label: "Khairat Kematian", value: "10% atau RM10k" },
+      { icon: "💎", label: "Khairat Kematian", value: "10% atau RM20k" },
       { icon: "4️⃣", label: "Pampasan Maksimum", value: "4x Gandaan" },
       { icon: "💵", label: "Nilai Tunai", value: "Tersedia" },
       { icon: "🕋", label: "Badal Haji", value: "Termasuk" }
@@ -268,7 +268,7 @@ const PACKAGES = [
       "Berkahwin",
       "Melahirkan anak",
       "Membeli rumah",
-      "Melancong ke luar negara",
+      "Melancong ke 5 buah negara",
       "Menunaikan haji"
     ]
   },
@@ -292,7 +292,7 @@ const PACKAGES = [
       { icon: "✓", title: "Perlindungan (Hibah)", subtitle: "Sehingga umur 70 tahun" },
       { icon: "✓", title: "Perlindungan (Elaun Wad)", subtitle: "Sehingga umur 65 tahun" },
       { icon: "✓", title: "TIADA kenaikan harga", subtitle: "Kadar rata" },
-      { icon: "✓", title: "Nilai tunai Tinggi", subtitle: "(Simpanan)" }
+      { icon: "✓", title: "Nilai tunai Tersedia", subtitle: "(Simpanan)" }
     ]
   }
 ];
