@@ -236,9 +236,8 @@ const PACKAGES = [
     ],
     features: [
       { icon: "1x", title: "Kematian Biasa", subtitle: "Pampasan penuh" },
-      { icon: "2x", title: "Kematian Kemalangan", subtitle: "Gandaan 2x" },
-      { icon: "3x", title: "Kemalangan Tempat Awam", subtitle: "Gandaan 2x" },
-      { icon: "4x", title: "Kemalangan Luar Negara", subtitle: "Gandaan 2x" },
+      { icon: "3x", title: "Kemalangan Tempat Awam", subtitle: "Gandaan 3x" },
+      { icon: "4x", title: "Kemalangan Luar Negara", subtitle: "Gandaan 4x" },
       { icon: "✓", title: "Pampasan Hilang Upaya", subtitle: "Termasuk" },
       { icon: "✓", title: "Khairat Kematian", subtitle: "Dapat dalam 48 jam" },
       { icon: "✓", title: "Badal Haji", subtitle: "(bagi muslim)" }
@@ -260,7 +259,7 @@ const PACKAGES = [
       { icon: "1x", title: "Kematian Semua Sebab", subtitle: "Semulajadi" },
       { icon: "2x", title: "Kematian Kanser", subtitle: "Gandaan 2x" },
       { icon: "3x", title: "Kematian Kemalangan", subtitle: "Gandaan 3x" },
-      { icon: "4x", title: "Haji @ Umrah", subtitle: "Gandaan 4x" },
+      { icon: "4x", title: "Kematian Haji/Umrah", subtitle: "Gandaan 4x" },
       { icon: "✓", title: "Perlindungan", subtitle: "Sehingga umur 70 tahun" },
       { icon: "✓", title: "Tiada kenaikan harga", subtitle: "Kadar rata" }
     ],
